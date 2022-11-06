@@ -1,0 +1,46 @@
+p {
+    color: red;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 25px;
+    outline: solid 1px yellow;
+    /* background-color: blue; */
+}
+
+span {
+    color: red;
+    background-color: blue;
+}
+
+/* div {
+    background-image: url('images/foto.jpg');
+     background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+    opacity: 0.5;
+
+} */
+
+div {
+    text-align: center;
+}
+
+div span {
+    background-color: white;
+    text-decoration-line: underline overline line-through;
+    text-decoration-color: aquamarine;
+    text-decoration-line: overline;
+    text-decoration-thickness: 5px;
+    text-transform: uppercase;
+}
+
+div p {
+    text-indent: 50px;
+    line-height: 40px;
+    font-size: 30px;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+}
